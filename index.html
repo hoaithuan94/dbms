@@ -1,149 +1,163 @@
 <html>
- <head>
+
+<head>
 
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-    <title>Database Management Systems</title> 
+    <title>Database Management Systems</title>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <style type="text/css">
-    
-    body{
-        font-family: "Roboto";
+    body {
+        font-family: "Georgia";
+        font-size: 16px;
         position: absolute;
-        left: 10%;
-        right: 10%;
+        left: 6%;
+        right: 6%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: justify;
     }
 
+
+    .button-37 {
+        background-color: #13aa52;
+        border: 1px solid #13aa52;
+        border-radius: 4px;
+        box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
+        box-sizing: border-box;
+        color: #fff;
+        cursor: pointer;
+        font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        outline: none;
+        outline: 0;
+        padding: 10px 25px;
+        text-align: center;
+        transform: translateY(0);
+        transition: transform 150ms, box-shadow 150ms;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+    }
+
+    .button-37:hover {
+        box-shadow: rgba(0, 0, 0, .15) 0 3px 9px 0;
+        transform: translateY(-2px);
+    }
+
+    @media screen and (max-width: 640px) {
+
+        body {
+            left: 6px;
+            right: 6px;
+        }
+
+    }
 </style>
 
 
 <body>
-<center>
-    <h2>Website môn học: 
-    Hệ quản trị Cơ sở dữ liệu <br>
-    (Database Management Systems)<h2>
-</center>
+    <center>
+        <h2>Website môn học:
+            Hệ quản trị Cơ sở dữ liệu <br>
+            (Database Management Systems)<h2>
+    </center>
 
-<table height="8px"></table>
-<table align="center" cellpadding="8px" cellspacing="8px" width="816">
-  <tbody><tr>
-    <td class="textbox" align="justify" valign="top">
-      <h3>Instructor:</h3>
-      <blockquote>
+    <h3>Instructor:</h3>
+    <blockquote>
         <table border="0" width="90%">
-          <tbody><tr>
-            <td width="150px"><p>Name:<br>
-              Email:<br>
-              Phone:<br>
-              Office:</td>
-            <td>Tran Hoai Thuan<br>
-                thuanth@giadinh.edu.vn<br>
-              &nbsp;<br>
-              371 Nguyen Kiem </td>
-          </tr>
-        </tbody></table>
-        </blockquote>
+            <tbody>
+                <tr>
+                    <td width="150px">
+                        <p>Name:<br>
+                            Email:<br>
+                            Phone:<br>
+                            Office:
+                    </td>
+                    <td>Tran Hoai Thuan<br>
+                        thuanth@giadinh.edu.vn<br>
+                        &nbsp;<br>
+                        371 Nguyen Kiem </td>
+                </tr>
+            </tbody>
+        </table>
+    </blockquote>
 
-      <h3>Summary:</h3>
-      <blockquote>
-        <table border="0" width="90%">
-          <tbody><tr>
-            <td style="text-align: justify">
-    Môn học giới thiệu các nội dung liên quan đến việc tổ chức, biểu diễn, cập nhật và khai thác thông tin trên một hệ quản trị cơ sở dữ liệu quan hệ <a href="REF/SQL2022-SSEI-Dev.exe">SQL server</a>. Nội dung chính gồm cách thức quản trị (tạo mới, cập nhật, tìm kiếm và truy vấn, xóa) cơ sở dữ liệu và các thành phần của nó (bảng dữ liệu, bảng ảo, bảng chỉ mục, thủ tục, v.v.) bằng các câu lệnh SQL và bằng công cụ trực quan
-    <a href="REF/Azure Data Studio/">SQL Server 
-    Management Studio</a>.</td>
-          </tr>
-        </tbody></table>
-        </blockquote>
-    <h3>Contents &amp; Lectures: <span style="font-weight: 400">
-    <a href="SQL_examples">(các file sql đi kèm bài giảng down tại đây)</a></span></h3>
-      <blockquote>
-        <table border="0" width="90%">
-          <tbody><tr>
-            <td>
-        <ul>
-          <li>Lec 1: Giới thiệu (<a href="Introduction.ppt">PPT</a>)</li>
-            <li>Lec 2: T-SQL for Data Definition (<a href="TSQL_DDL.ppt">PPT</a>)</li>
-            <li>Lec 3: T-SQL for Data Definition &amp; Data Manipulation (Tiếng Việt,
-            <a href="SQL.ppt">PPT</a>)</li>
-            <li>Lec 4: Indexes (<a href="Index.ppt">PPT</a>), Data Integrity (<a href="DataIntegrity.ppt">PPT</a>)</li>
-            <li>Lec 5: Lập trình T-SQL (<a href="LAP_TRINH_TSQL.ppt">PPT</a>)</li>
-            <li>Lec 6: View, Stored Procedure, User Definited Function, Trigger 
-            (<a href="VIEW_SP_TRIGGER_UDF.ppt">PPT</a>)</li>
-            <li>Lec 7: T-SQL for Data Control&nbsp; (<a href="TSQL_DCL.ppt">PPT</a>)</li>
-            <li>Lec 8: Transaction and Lock</li>
-            <wbr>
-        </ul></td>
-          </tr>
-        </tbody></table>
-        </blockquote>
 
-    <h3>References: (Click <a href="REF">Here</a>)</h3>
-      <blockquote>
-        <table border="0" width="90%">
-          <tbody><tr>
-            
-          </tr>
-        </tbody></table>
-        </blockquote>
-    
+    <h3>Summary:</h3>
+    <blockquote>
+        <p style="text-align: justify">
+            Môn học giới thiệu các nội dung liên quan đến việc tổ chức, biểu diễn, cập nhật và khai thác thông tin trên hệ quản trị cơ sở dữ liệu quan hệ <a href="Downloads/SQL2022-SSEI-Dev.exe">Microsoft SQL server</a>. Nội dung chính gồm cách thức quản trị (tạo mới, cập nhật, tìm kiếm và truy vấn, xóa) cơ sở dữ liệu và các thành phần của nó (bảng dữ liệu, bảng ảo, bảng chỉ mục, thủ tục, v.v.) bằng các câu lệnh SQL và bằng công cụ trực quan
+            <a href="https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio",target="_blank">Azure Data Studio</a>.
+        </p>
+    </blockquote>
+
+
+
+    <h3>Contents &amp; Lectures: (<a style="font-size: 16px;font-weight: 300;" href="References/dbms_book.sql">Download file sql</a>)</h3>
+    <blockquote>
+        <li>Lec 1: Tổng quan về SQL (<a href="Lectures/slide1.pdf">slide</a>, <a href="Lectures/chapter1.pdf">chapter</a>)</li>
+        <li>Lec 2: Ngôn ngữ thao tác dữ liệu (<a href="Lectures/slide2.pdf">slide</a>, <a href="Lectures/chapter2.pdf">chapter</a>)</li>
+        <li>Lec 3: Ngôn ngữ định nghĩa dữ liệu (<a href="Lectures/slide3.pdf">slide</a>, <a href="Lectures/chapter3.pdf">chapter</a>)</li>
+        <li>Lec 4: Bảo mật trong SQL (<a href="Lectures/slide4.pdf">slide</a>, <a href="Lectures/chapter4.pdf">chapter</a>)</li>
+        <li>Lec 5: Thủ tục lưu trữ, hàm và trigger (<a href="Lectures/slide5.pdf">slide</a>, <a href="Lectures/chapter5.pdf">chapter</a>)</li>
+        <li>Lec 6: Giao tác SQL(<a href="Lectures/slide6.pdf">slide</a>, <a href="Lectures/chapter6.pdf">chapter</a>)</li>
+    </blockquote>
+
+
+
+    <h3>References:</h3>
+    <blockquote>
+        <p><a href="References/giao_trinh_CSDL.pdf" ,target="_blank">1. Giáo Trình Cơ sở dữ liệu</a> (Download file <a href="References/data.sql">data.sql</a>)</p>
+        <p><a href="References/learning_sql.pdf" ,target="_blank">2. Learning SQL - Free Ebook from Stack Overflow.</a></p>
+        <p><a href="References/database_systems.pdf" ,target="_blank">3. Database Systems - Design, Implementation and Management, 12th edition, Carlos Coronel.</a></p>
+    </blockquote>
+
+
+
+
     <h3>Assignments:</h3>
-      <blockquote>
-        <table border="0" width="90%">
-          <tbody><tr>
-            <td>
-        1. Cài đặt phần mềm SQL Server và SQL Server Management Studio (<a href="REF/SQLserver_installer/">Download 
-        từ đây</a>)<p>2. Sử dụng SQL Server Management Studio và sqlcmd (start 
-        --&gt; run --&gt; cmd --&gt; sqlcmd) để connect với SQL Server</p>
-        <p>3. Cài đặt 2 cơ sở dữ liệu mẫu (có dữ liệu): pubs và northwind vào 
-        SQL server (<a href="REF/SQL2000SampleDb.msi">download tại đây</a>). Cài 
-        bằng 2 cách: (1) thực hiện các lệnh T-SQL trong các file instpubs.sql và 
-        instnwnd.sql để sinh ra các databases, (2) attach các databases đã có 
-        sẵn (PUBS.MDF, PUBS.LDF; NORTHWND.MDF, NORTHWND.LDF).</p>
-        <p>4 . Tìm hiểu cấu trúc các tables, views, stored procedures trong các 
-        cơ sở dữ liệu pubs và northwind. Tạo các data diagram từ tất cả các bảng 
-        trong các cơ sở dữ liệu này.</p>
-        <p>5. Bài tập thực hành số 1 (<a href="REF/Baithuchanhso1.doc">down 
-        tại đây</a>)</p>
-        <p>6. Bài thực hành số 2: Thực hiện các câu truy vấn nâng cao trong file
-        <a href="SQLSV_2_TV_NANG_CAO.ppt">PPT (download)</a> </p>
-        <p>7. Bài thực hành ở nhà (<a href="baitap_lam_o_nha1.doc">Down tại đây</a>)</p>
-        <p>8. Bài thực hành số 2 (<a href="bai_thu_hanh_2.doc">Down tại đây</a>)</p>
-        <p>9. Bài thực hành số 3 (<a href="baithuchanhso3.doc">Down tại đây</a>)</p>
-        <p>10. Bài thực hành số 4 (<a href="Baithuchanh4.doc">Down tại đây</a>)</p>
-        <p>11. Bài thực hành số 5 (<a href="Baithuchanh5.doc">Down tại đây</a>)</p>
-        <p>12. Thực hành các câu lệnh SQL theo tutorial sau:</p>
-        <p><a href="http://msdn.microsoft.com/en-us/library/ms365303.aspx">
-        http://msdn.microsoft.com/en-us/library/ms365303.aspx</a></p>
-        
-            </td>
-          </tr>
-        </tbody></table>
-        </blockquote>
-    <h3>Announcements:</h3>
-      <blockquote>
-        <table border="0" width="90%">
-          <tbody><tr>
-            <td>
-        
-        </td>
-          </tr>
-        </tbody></table>
-        <p>&nbsp;</p>
-        </blockquote>
-    <!-- InstanceEndEditable -->
-      </td>
-  </tr>
-</tbody></table>
-<table height="8px"></table>
-<noscript>
-&lt;div style="display: block; font-family: Verdana, Geneva, Arial;
-font-size: 10px"&gt;
-&lt;/div&gt;
-&lt;/body&gt;
-&lt;!-- InstanceEnd --&gt;&lt;/html&gt;
-</noscript></body>
+    <blockquote>
+        <p>1. Cài đặt hệ quản trị cơ sở dữ liệu <a href="Downloads/SQL2022-SSEI-Dev.exe">Microsoft SQL Server</a> và phần mềm <a href="https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio",target="_blank">Azure Data Studio</a>.</p>
+
+        <p>2. Bài thực hành số 1 (<a href="Assignments/th1.pdf"><i class="fa fa-download"></i></a>) - Bài thực hành ở nhà (<a href="Assignments/th1hw.pdf"><i class="fa fa-download"></i></a>)</p>
+
+        <p>3. Bài thực hành số 2 (<a href="Assignments/th2.pdf"><i class="fa fa-download"></i></a>) - Bài thực hành ở nhà (<a href="Assignments/th2hw.pdf"><i class="fa fa-download"></i></a>)</p>
+
+        <p>4. Bài thực hành số 3 (<a href="Assignments/th3.pdf"><i class="fa fa-download"></i></a>, <a href="Assignments/th3.sql">th3.sql</a>) - Bài thực hành ở nhà (<a href="Assignments/th3hw.pdf"><i class="fa fa-download"></i></a>)</p>
+
+        <p>5. Bài thực hành số 4 (<a href="Assignments/th4.pdf"><i class="fa fa-download"></i></a>, <a href="Assignments/th4.sql">th4.sql</a>) - Bài thực hành ở nhà (<a href="Assignments/th4hw.pdf"><i class="fa fa-download"></i></a>)</p>
+
+        <p>6. Bài thực hành số 5 (<a href="Assignments/th5.pdf"><i class="fa fa-download"></i></a>)</p>
+
+    </blockquote>
+
+
+
+    <h3>Exams:</h3>
+    <blockquote>
+        <p>- Giữa kỳ: 50% điểm chuyên cần + 50% điểm thực hành</p>
+        <p>- Cuối kỳ: Tiểu luận</p>
+    </blockquote>
+
+    <h3>Others:</h3>
+    <blockquote>
+        <p>- <a href="https://zalo.me/g/geurzn090">Zalo Group</a></p>
+    </blockquote>
+
+
+
+    <center>
+        <button class="button-37" onclick=" window.open('https://forms.gle/Wef78An1oW8DnwBy5', '_blank')">Submit <i class="fa fa-upload"></i></button>
+    </center>
+
+
+
+</body>
+
 </html>

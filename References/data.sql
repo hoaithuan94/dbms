@@ -1,0 +1,131 @@
+DROP DATABASE IF EXISTS SQLBOOK;
+CREATE DATABASE SQLBOOK;
+USE SQLBOOK;
+
+
+
+CREATE TABLE SINHVIEN(
+	MSSV INT PRIMARY KEY AUTO_INCREMENT,
+    TEN VARCHAR(20) NOT NULL,
+    TUOI INT NOT NULL,
+    DIACHI VARCHAR(40)
+   
+);
+
+CREATE TABLE SINHVIEN1(
+	MSSV INT PRIMARY KEY,
+    HOTEN VARCHAR(20),
+    TUOI INT,
+    DIACHI VARCHAR(40),
+    GIOITINH VARCHAR(3)
+   
+);
+
+CREATE TABLE NGANH(
+	MANGANH VARCHAR(6) PRIMARY KEY,
+	TENNGANH VARCHAR(20)
+);
+
+CREATE TABLE MONTHI(
+	MAMT VARCHAR(4) PRIMARY KEY,
+	TENMT VARCHAR(50)
+);
+
+CREATE TABLE KETQUA(
+	MSSV INT,
+    MAMT VARCHAR(4),
+    DIEM NUMERIC(3,1)
+);
+
+CREATE TABLE BOMON(
+	MABM VARCHAR(6) PRIMARY KEY,
+	TENBM VARCHAR(20)
+);
+
+CREATE TABLE GIAOVIEN(
+	MAGV CHAR (6) PRIMARY KEY,
+	HOTEN VARCHAR (40),
+    TUOI INT NOT NULL,
+    DIACHI VARCHAR(40),
+	GIOITINH VARCHAR (3),
+    MABM VARCHAR(4),
+    CONSTRAINT fk_mabm FOREIGN KEY (MABM) REFERENCES BOMON(MABM)
+);
+
+
+
+
+ALTER TABLE SINHVIEN ADD GIOITINH VARCHAR(3);
+
+
+
+INSERT INTO BOMON VALUES
+('CNTT','Cong nghe thong tin'),
+('DHMT','Do hoa may tinh'),
+('KTPM','Ky thuan phan mem');
+
+INSERT INTO GIAOVIEN VALUES
+(10151, 'Doan Diem Khanh',58, 'HCM', 'Nam','KTPM'),
+(10152, 'Hoang Duocc Su',68, "Can Tho", "Nam",'DHMT'),
+(10153, 'Doc Co Cau Bai',38, "HCM", "Nu",'KTPM'),
+(10154, 'Duong Qua',23, "Long An", "Nam",'CNTT'),
+(10155, 'Hong Thac Cong',88, "Ca Mau", "Nu",'CNTT');
+
+
+
+INSERT INTO SINHVIEN VALUES
+(12150, 'Doan Du',28, "HCM", "Nam"),
+(12151, 'Vuong Ngu Yen',25, "Long An", "Nu"),
+(12152, 'Nham Doanh Doanh',26, "Tay Ninh", "Nu"),
+(12153, 'Ly Mac Sau',23, "Binh Duong", "Nu"),
+(12154, 'Au Duong Phong',23, "HCM", "Nam"),
+(12155, 'Quach Tinh',23, "Long An", "Nam"),
+(12156, 'Quach Tuong',28, "Long An", "Nu"),
+(12157, 'Kieu Phong',20, "Can Tho", "Nam"),
+(12158, 'Hu Truc',21, "Da Lat", "Nam"),
+(12159, 'Mo Dung Phuc',22, "Quy Nhon", "Nam");
+
+-- Thêm dữ liệu cho bảng MONHOC
+INSERT INTO MONTHI VALUES
+('THDC','Tin hoc dai cuong'),
+('CTRR','Cau truc roi rac'),
+('CSDL','Co so du lieu');
+
+INSERT INTO NGANH VALUES
+('CNTT','Cong nghe thong tin'),
+('DHMT','Do hoa may tinh'),
+('KTPM','Ky thuan phan mem');
+
+INSERT INTO KETQUA VALUES
+(12150, 'THDC',7.5),
+(12150, 'CTRR',8.5),
+(12150, 'CSDL',8),
+(12151, 'THDC',10),
+(12151, 'CTRR',10),
+(12151, 'CSDL',9.5),
+(12152, 'THDC',4),
+(12152, 'CTRR',5),
+(12152, 'CSDL',8),
+(12153, 'THDC',7),
+(12153, 'CTRR',6),
+(12153, 'CSDL',8),
+(12154, 'THDC',6.5),
+(12154, 'CTRR',8),
+(12154, 'CSDL',6),
+(12155, 'THDC',9.5),
+(12155, 'CTRR',8.5),
+(12155, 'CSDL',4),
+(12156, 'THDC',9.5),
+(12156, 'CTRR',8.5),
+(12156, 'CSDL',9),
+(12157, 'THDC',6.5),
+(12157, 'CTRR',8.5),
+(12157, 'CSDL',7),
+(12158, 'THDC',10),
+(12158, 'CTRR',9.5),
+(12158, 'CSDL',9),
+(12159, 'THDC',7.5),
+(12159, 'CTRR',6.5),
+(12159, 'CSDL',9);
+
+
