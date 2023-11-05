@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+ body {
+        font-family: "Darker Grotesque";
+        font-size: 18px;
+        position: absolute;
+        left: 6%;
+        right: 6%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: justify;
+    }
+
+    a {
+      text-decoration: none;
+    }
+    .button-37 {
+        background-color: #13aa52;
+        border: 1px solid;
+        border-radius: 4px;
+        box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
+        box-sizing: border-box;
+        color: #fff;
+        width: 220px;
+        cursor: pointer;
+        font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        outline: none;
+        outline: 0;
+        padding: 10px 25px;
+        text-align: center;
+        transform: translateY(0);
+        transition: transform 150ms, box-shadow 150ms;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+    }
+
+    .button-37:hover {
+        box-shadow: rgba(0, 0, 0, .15) 0 3px 9px 0;
+        transform: translateY(-2px);
+    }
+
+    @media screen and (max-width: 640px) {
+
+        body {
+            left: 6px;
+            right: 6px;
+        }
+
+    }
