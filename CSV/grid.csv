@@ -1,0 +1,807 @@
+﻿grid_id,description,event_year,event_date,restore_date,nerc_region,demand_loss_mw,affected_customers
+1,Severe Weather Thunderstorms,2014,6/30/14,7/1/14,RFC,null,127000
+2,Severe Weather Thunderstorms,2014,6/30/14,7/1/14,MRO,424,120000
+3,Fuel Supply Emergency Coal,2014,6/27/14,null,MRO,null,null
+4,Physical Attack Vandalism,2014,6/24/14,6/24/14,SERC,null,null
+5,Physical Attack Vandalism,2014,6/19/14,6/19/14,SERC,null,null
+6,Physical Attack Vandalism,2014,6/18/14,6/18/14,WECC,null,null
+7,Severe Weather Thunderstorms,2014,6/18/14,6/20/14,RFC,null,138802
+8,Severe Weather Thunderstorms,2014,6/15/14,6/15/14,MRO,null,55951
+9,Suspected Physical Attack,2014,6/12/14,6/12/14,ERCOT,null,null
+10,Physical Attack Vandalism,2014,6/11/14,6/11/14,SERC,null,null
+11,Suspected Physical Attack,2014,6/11/14,6/11/14,WECC,null,null
+12,Severe Weather Thunderstorms,2014,6/10/14,6/11/14,RFC,null,66383
+13,Electrical System Islanding,2014,6/9/14,6/9/14,WECC,null,null
+14,Severe Weather Thunderstorms,2014,6/7/14,6/8/14,SERC,217,65000
+15,Fuel Supply Emergency Coal,2014,6/6/14,null,ERCOT,null,null
+16,Severe Weather Thunderstorms,2014,6/5/14,6/7/14,SERC,494,38500
+17,Severe Weather Thunderstorms,2014,6/5/14,6/5/14,SERC,null,56475
+18,Electrical System Islanding,2014,6/3/14,6/3/14,WECC,338,null
+19,Physical Attack Vandalism,2014,6/3/14,6/3/14,ERCOT,null,null
+20,Physical Attack Vandalism,2014,5/27/14,5/27/14,WECC,null,null
+21,Electrical System Separation Islanding,2014,5/26/14,5/26/14,WECC,null,null
+22,Physical Attack Vandalism,2014,5/23/14,5/25/14,SERC,null,null
+23,Physical Attack Vandalism,2014,5/20/14,5/20/14,WECC,null,null
+24,Public Appeal to Reduce Electricity Usage Wild Fires,2014,5/16/14,5/16/14,WECC,3900,1400000
+25,Public Appeal to Reduce Electricity Usage Wild Fires,2014,5/15/14,null,WECC,3300,1400000
+26,Suspected Physical Attack,2014,5/15/14,5/15/14,RFC,null,null
+27,Public Appeal to Reduce Electricity Usage Wild Fires,2014,5/14/14,null,WECC,null,426
+28,Physical Attack Vandalism,2014,5/12/14,5/12/14,WECC,null,null
+29,Physical Attack Vandalism,2014,5/11/14,5/11/14,MRO,null,null
+30,Severe Weather Heavy Winds,2014,5/9/14,5/11/14,RFC,null,56000
+31,Physical Attack,2014,5/8/14,5/8/14,WECC,null,null
+32,Physical Attack,2014,5/8/14,5/8/14,SERC,null,null
+33,Severe Weather Thunderstorms,2014,4/30/14,4/30/14,SERC,296,89000
+34,Severe Weather Thunderstorms,2014,4/29/14,4/29/14,SERC,355,106648
+35,Severe Weather Thunderstorms,2014,4/29/14,5/1/14,SERC,null,57000
+36,Electrical System Separation Islanding,2014,4/27/14,null,WECC,9750,4000000
+37,Physical Attack Vandalism,2014,4/27/14,4/27/14,WECC,null,null
+38,Physical Attack Vandalism,2014,4/25/14,4/25/14,RFC,null,null
+39,Electrical System Separation Islanding,2014,4/24/14,4/24/14,WECC,null,null
+40,Load shedding of 100 Megawatts,2014,4/23/14,4/23/14,SERC,163,28000
+41,Severe Weather,2014,4/12/14,4/15/14,RFC,null,164000
+42,Severe Weather Thunderstorms,2014,4/12/14,4/14/14,RFC,null,50000
+43,Physical Attack Vandalism,2014,4/8/14,4/8/14,WECC,null,null
+44,Voltage Reduction,2014,4/8/14,4/8/14,PR,null,null
+45,Severe Weather Wind,2014,4/4/14,4/4/14,SERC,null,57200
+46,Fuel Supply Emergency Coal,2014,4/3/14,null,TRE,null,null
+47,Fuel Supply Emergency Coal,2014,4/3/14,4/9/14,MRO,null,null
+48,System Wide Voltage Reduction,2014,3/31/14,3/31/14,PR,null,null
+49,Electrical System Separation Islanding,2014,3/26/14,3/26/14,WECC,null,null
+50,Physical Attack,2014,3/26/14,4/10/14,MRO,null,null
+51,Physical Attack Vandalism,2014,3/24/14,3/24/14,WECC,null,null
+52,Suspected Cyber Attack,2014,3/20/14,3/20/14,NPCC,null,null
+53,Physical Attack Sabatoge,2014,3/17/14,3/18/14,WECC,null,null
+54,Physical Attack Vandalism,2014,3/14/14,3/14/14,MRO,null,null
+55,Severe Weather High Winds,2014,3/12/14,3/13/14,SERC,250,61377
+56,Suspected Physical Attack,2014,3/11/14,3/13/14,MRO,null,null
+57,Severe Weather Winter Storm,2014,3/7/14,3/7/14,SERC,1500,370900
+58,Physical Attack,2014,3/5/14,3/5/14,WECC,null,null
+59,Fuel Supply Emergency Coal,2014,3/4/14,3/17/14,MRO,null,null
+60,Suspected Physical Attack,2014,3/3/14,3/3/14,NPCC,null,null
+61,Severe Weather Winter Storm,2014,3/3/14,3/3/14,SERC,null,65904
+62,Fuel Supply Emergency Hydro,2014,3/3/14,3/3/14,WECC,630,null
+63,Public Appeal due to Severe Weather Cold,2014,3/2/14,3/4/14,TRE,null,null
+64,Severe Weather ThunderstormsHigh Winds,2014,2/21/14,2/21/14,SERC,221,66445
+65,Severe Weather SnowIce,2014,2/20/14,2/21/14,SERC,null,66000
+66,Physical Attack Vandalism,2014,2/18/14,2/18/14,WECC,null,null
+67,Physical Attack Vandalism,2014,2/14/14,2/14/14,WECC,null,null
+68,Severe Weather SnowIce,2014,2/12/14,2/15/14,SERC,null,200000
+69,Physical Attack Vandalism,2014,2/12/14,2/12/14,NPCC,null,null
+70,Severe Weather SnowIce,2014,2/12/14,2/15/14,SERC,700,120124
+71,Severe Weather SnowIce,2014,2/12/14,2/15/14,SERC,1246,373835
+72,Public Appeal to Reduce Electricity Usage,2014,2/7/14,2/7/14,TRE,null,null
+73,Public Appeal to Reduce Electricity Usage,2014,2/7/14,2/8/14,TRE,null,null
+74,Fuel Supply Emergency Coal,2014,2/7/14,3/21/14,NPCC,675,null
+75,Fuel Supply Emergency Natural Gas,2014,2/6/14,2/6/14,WECC,4000,null
+76,Public Appeal to Reduce Electricity Usage,2014,2/6/14,2/6/14,TRE,null,null
+77,Fuel Supply Emergency Natural Gas,2014,2/6/14,2/6/14,WECC,611,null
+78,Fuel Supply Emergency Natural Gas,2014,2/6/14,2/6/14,WECC,160,null
+79,Public Appeal to Reduce Electricity Usage,2014,2/6/14,2/7/14,TRE,null,null
+80,Severe Weather SnowIce,2014,2/5/14,2/9/14,RFC,null,144000
+81,Severe Weather SnowIce,2014,2/5/14,2/9/14,RFC,null,101580
+82,Severe Weather Ice,2014,2/5/14,2/5/14,RFC,800,181000
+83,Fuel Supply Emergency Coal,2014,2/5/14,2/23/14,NPCC,300,null
+84,Severe Weather SnowIce,2014,2/5/14,2/5/14,RFC,null,715000
+85,Severe Weather SnowIce,2014,2/5/14,2/7/14,RFC,null,62159
+86,Physical Attack Vandalism,2014,1/30/14,null,WECC,null,null
+87,Physical Attack Vandalism,2014,1/29/14,1/29/14,MRO,null,null
+88,Public Appeal due to Severe Weather Cold,2014,1/27/14,1/28/14,RFC,null,null
+89,Physical Attack,2014,1/26/14,null,RFC,null,null
+90,Physical Attack Vandalism,2014,1/26/14,1/27/14,WECC,null,null
+91,Physical Attack Vandalism,2014,1/25/14,1/25/14,MRO,null,null
+92,Physical Attack Vandalism,2014,1/24/14,1/24/14,MRO,null,null
+93,Fuel Supply Emergency Coal,2014,1/24/14,4/9/14,RFC,null,null
+94,Physical Attack Vandalism,2014,1/23/14,1/24/14,WECC,null,null
+95,Public Appeal due to Severe Weather Cold,2014,1/23/14,1/24/14,SERC,null,null
+96,Public Appeal due to Severe Weather Cold,2014,1/23/14,1/24/14,SERC,null,null
+97,Public Appeal due to Severe Weather Cold,2014,1/23/14,1/24/14,RFC,null,null
+98,Physical Attack Vandalism,2014,1/22/14,1/22/14,RFC,null,null
+99,Physical Attack Vandalism,2014,1/22/14,1/22/14,MRO,null,null
+100,Suspected Physical Attack,2014,1/22/14,1/23/14,RFC,null,null
+101,Physical Attack Vandalism,2014,1/22/14,1/22/14,MRO,null,null
+102,Physical Attack Vandalism,2014,1/21/14,null,RFC,null,null
+103,Physical Attack Vandalism,2014,1/21/14,1/21/14,SERC,10,null
+104,Electrical System Islanding,2014,1/18/14,null,RFC,null,null
+105,Public Appeal to Reduce Electricity Usage,2014,1/18/14,1/18/14,TRE,null,null
+106,Suspected Physical Attack,2014,1/17/14,1/17/14,RFC,null,null
+107,Physical Attack Vandalism,2014,1/16/14,1/16/14,WECC,null,null
+108,Physical Attack Vandalism,2014,1/15/14,1/15/14,WECC,null,null
+109,Physical Attack Vandalism,2014,1/13/14,1/13/14,WECC,null,null
+110,Voltage Reduction Public Appeal Load Shed 100+MW due to Severe Weather Cold,2014,1/8/14,1/8/14,SERC,4545,677858
+111,Voltage Reduction due to Severe Weather Cold,2014,1/8/14,1/8/14,RFC,576,null
+112,Voltage Reduction Public Appeal Load Shed 100+MW due to Severe Weather Cold,2014,1/7/14,1/7/14,SERC,4853,677858
+113,Public Appeal due to Severe Weather Cold,2014,1/7/14,1/8/14,SERC,null,null
+114,Voltage Reduction Public Appeal due to Severe Weather Cold,2014,1/7/14,1/7/14,SERC,14435,null
+115,Fuel Supply Emergency due to Severe Weather Cold,2014,1/7/14,1/8/14,SERC,null,null
+116,Fuel Supply Emergency Natural Gas,2014,1/7/14,1/9/14,RFC,null,null
+117,Public Appeal due to Severe Weather Cold,2014,1/7/14,1/8/14,RFC,null,null
+118,Public Appeal due to Severe Weather Cold,2014,1/7/14,1/7/14,SERC,null,null
+119,Public Appeal due to Severe Weather Cold,2014,1/7/14,1/7/14,SERC,null,null
+120,Severe Weather Cold,2014,1/7/14,1/7/14,RFC,null,null
+121,Public Appeal due to Severe Weather Cold,2014,1/6/14,1/6/14,RFC,null,null
+122,Public Appeal due to Severe Weather Cold,2014,1/6/14,1/7/14,RFC,null,null
+123,Voltage Reduction due to Severe Weather Cold,2014,1/6/14,1/6/14,RFC,200,62000
+124,Voltage Reduction due to Severe Weather Cold,2014,1/6/14,1/6/14,RFC,null,null
+125,Voltage Reduction due to Severe Weather Cold,2014,1/6/14,1/6/14,RFC,null,null
+126,Voltage Reduction due to Severe Weather Cold,2014,1/6/14,1/6/14,RFC,null,null
+127,Voltage Reduction due to Severe Weather Cold,2014,1/6/14,1/6/14,RFC,null,null
+128,Vandalism,2014,1/6/14,1/6/14,RFC,null,null
+129,Public Appeal due to Severe Weather Cold,2014,1/6/14,1/7/14,TRE,null,null
+130,Physical Attack,2013,12/30/13,12/30/13,WECC,null,null
+131,Physical Attack,2013,12/30/13,1/1/14,WECC,null,null
+132,Physical Attack,2013,12/27/13,12/27/13,WECC,null,null
+133,Severe Weather IceSnow,2013,12/23/13,12/25/13,NPCC,null,52500
+134,Severe Weather IceSnow,2013,12/22/13,12/24/13,NPCC,null,59000
+135,Severe Weather IceSnow,2013,12/22/13,12/28/13,RFC,null,50000
+136,Severe Weather IceSnow,2013,12/22/13,12/25/13,RFC,350,140735
+137,Fuel Supply Emergencies Coal,2013,12/13/13,12/27/13,TRE,null,null
+138,Fuel Supply Emergencies Coal,2013,12/13/13,12/27/13,TRE,null,null
+139,Suspected Physical Attack,2013,12/10/13,12/11/13,WECC,null,null
+140,Severe Weather IceSnow,2013,12/9/13,12/9/13,SERC,293,88000
+141,Severe Weather IceSnow,2013,12/6/13,12/11/13,TRE,null,881000
+142,Physical Attack Vandalism Theft,2013,12/6/13,12/6/13,WECC,null,null
+143,Load Shed 100+ MW,2013,12/4/13,12/4/13,WECC,150,null
+144,Physical Attack Vandalism,2013,11/24/13,11/24/13,WECC,null,null
+145,Severe Weather Wind Storm,2013,11/21/13,11/22/13,WECC,150,89500
+146,Physical Attack Vandalism,2013,11/20/13,11/20/13,WECC,null,null
+147,Severe Weather Thunderstorms,2013,11/17/13,11/17/13,RFC,null,190000
+148,Severe Weather Ice and Snow Storm,2013,11/17/13,11/20/13,RFC,null,325325
+149,Severe Weather Thunderstorms,2013,11/17/13,11/18/13,RFC,null,77346
+150,Severe Weather Thunderstorms,2013,11/17/13,11/20/13,RFC,null,61705
+151,Severe Weather Thunderstorms,2013,11/17/13,11/21/13,RFC,null,50000
+152,Systemwide voltage reductions of 3 percent or more,2013,11/17/13,11/17/13,RFC,38,7500
+153,Severe Weather Thunderstorms,2013,11/17/13,11/20/13,RFC,null,75065
+154,Severe Weather Tornadoes,2013,11/17/13,11/20/13,RFC,535,61705
+155,Severe Weather Tornadoes,2013,11/17/13,11/20/13,SERC,null,200000
+156,Physical Attack Vandalism,2013,11/16/13,11/16/13,WECC,null,null
+157,Electrical System Separation Islanding,2013,11/12/13,11/12/13,WECC,55,48400
+158,Loss of Power from Wholesale Provider Major Distribution Disruption,2013,11/12/13,11/12/13,SPP,null,null
+159,Physical Attack,2013,11/5/13,11/7/13,RFC,null,null
+160,Physical Attack Vandalism,2013,11/4/13,11/4/13,NPCC,null,null
+161,Physical Attack Vandalism,2013,11/2/13,11/2/13,WECC,null,null
+162,Severe Weather Heavy Winds,2013,11/2/13,11/4/13,WECC,null,105000
+163,Physical Attack Vandalism,2013,11/1/13,11/1/13,RFC,null,null
+164,Severe Weather Hail Storm,2013,10/27/13,10/27/13,TRE,null,171117
+165,Suspected Physical Attack,2013,10/26/13,10/26/13,WECC,null,null
+166,Electrical System Separation Islanding,2013,10/21/13,10/21/13,WECC,115,433
+167,Physical Attack,2013,10/19/13,10/19/13,WECC,null,null
+168,Cyber Event with Potential to Cause Impact,2013,10/16/13,10/16/13,SERC,0,0
+169,Physical Attack,2013,10/11/13,10/11/13,SERC,null,null
+170,Physical Attack,2013,10/6/13,10/6/13,SPP,null,9200
+171,Physcial Attack Sabotage,2013,9/29/13,9/29/13,SERC,null,null
+172,Severe Weather Thunderstorms,2013,9/11/13,9/15/13,RFC,400,75000
+173,Load Shed of 100+ MW,2013,9/10/13,9/11/13,RFC,105,null
+174,Severe Weather Thunderstorms,2013,8/30/13,8/31/13,RFC,null,157000
+175,Electrical System Separation Islanding Severe Weather,2013,8/29/13,8/29/13,MRO,15,7000
+176,Physcial Attack Vandalism,2013,8/29/13,8/29/13,SPP,null,null
+177,Physcial Attack Vandalism,2013,8/28/13,8/28/13,WECC,null,null
+178,Physcial Attack Vandalism,2013,8/26/13,8/26/13,WECC,null,null
+179,Physcial Attack Vandalism,2013,8/23/13,8/23/13,RFC,null,null
+180,Physcial Attack Vandalism,2013,8/22/13,8/22/13,RFC,null,null
+181,Physcial Attack Sabotage,2013,8/22/13,8/22/13,WECC,null,null
+182,Physcial Attack Sabotage,2013,8/21/13,8/21/13,SERC,null,null
+183,Severe Weather Lightning Strike,2013,8/19/13,8/20/13,WECC,685,124000
+184,Severe Weather Thunderstorms,2013,8/16/13,8/17/13,TRE,null,219681
+185,Suspicious Activity,2013,8/12/13,8/12/13,WECC,null,null
+186,Severe Weather Thunderstorms,2013,8/7/13,8/7/13,MRO,220,51160
+187,Physcial Attack Vandalism,2013,8/7/13,8/8/13,WECC,null,null
+188,Fuel Supply Emergency Natural Gas and Fuel Oil,2013,8/7/13,8/7/13,MRO,null,null
+189,Physcial Attack Vandalism,2013,8/6/13,8/6/13,WECC,null,null
+190,Electrical System Separation Islanding Severe Weather,2013,8/5/13,8/5/13,WECC,null,null
+191,Physical Attack Vandalism,2013,8/4/13,8/4/13,WECC,null,null
+192,Electrical System Separation Islanding,2013,8/1/13,8/1/13,WECC,420,null
+193,Physical Attack Copper Theft,2013,8/1/13,8/1/13,NPCC,null,null
+194,Loss of 300+ MW Load,2013,8/1/13,8/2/13,FRCC,297,104498
+195,Physical Attack Vandalism,2013,7/25/13,7/25/13,WECC,null,null
+196,Severe Weather Thunderstorms,2013,7/23/13,7/25/13,SPP,500,92748
+197,Physical Attack Vandalism,2013,7/22/13,7/22/13,WECC,null,null
+198,Severe Weather Thunderstorms,2013,7/19/13,7/21/13,NPCC,null,74300
+199,Severe Weather Thunderstorms,2013,7/19/13,7/20/13,RFC,null,156627
+200,Public Appeal Heatwave,2013,7/18/13,7/19/13,NPCC,null,null
+201,Equipment Failure,2013,7/18/13,7/19/13,WECC,200,123000
+202,Physical Attack Vandalism,2013,7/18/13,7/18/13,WECC,null,null
+203,Fuel Supply Emergency Natural Gas,2013,7/17/13,7/19/13,NPCC,417,null
+204,Physical Attack Vandalism,2013,7/12/13,7/12/13,WECC,null,null
+205,Physical Attack Vandalism,2013,7/11/13,7/14/13,WECC,455,null
+206,Severe Weather Thunderstorms,2013,7/10/13,7/11/13,RFC,null,122314
+207,Physical Attack Copper Theft,2013,7/10/13,7/10/13,NPCC,0,0
+208,Physical Attack Vandalism,2013,7/5/13,7/5/13,WECC,null,2500
+209,Voltage Reduction Line and Generator Trip,2013,7/3/13,7/3/13,PR,480,393000
+210,Suspected Physical Attack,2013,7/3/13,7/3/13,WECC,0,0
+211,Load Shed 100+MW,2013,7/2/13,7/5/13,WECC,200,null
+212,Equipment Failure,2013,6/28/13,6/28/13,WECC,240,65255
+213,Physical Attack Vandalism,2013,6/28/13,6/28/13,RFC,null,null
+214,Physical Attack Vandalism,2013,6/28/13,6/28/13,NPCC,null,null
+215,Physical Attack Vandalism,2013,6/27/13,6/27/13,RFC,null,null
+216,Severe Weather Thunderstorms,2013,6/27/13,6/28/13,RFC,null,138000
+217,Severe Weather Thunderstorms,2013,6/24/13,6/25/13,RFC,null,283451
+218,Severe Weather Thunderstorms,2013,6/24/13,6/26/13,RFC,null,86615
+219,Severe Weather Fog,2013,6/23/13,6/24/13,WECC,null,148000
+220,Physical Attack Vandalism,2013,6/22/13,6/22/13,WECC,null,null
+221,Suspected Physical Attack,2013,6/22/13,6/22/13,WECC,null,null
+222,Physical Attack Vandalism,2013,6/21/13,6/21/13,RFC,null,null
+223,Suspected Cyber Attack,2013,6/21/13,10/30/13,MRO,null,null
+224,Physical Attack Vandalism and Sabotage,2013,6/21/13,6/21/13,WECC,null,1100
+225,Severe Weather Hailstorm,2013,6/21/13,6/26/13,MRO,null,193000
+226,Severe Weather Hailstorm,2013,6/21/13,6/24/13,MRO,null,400000
+227,Physcial Attack Vandalism,2013,6/20/13,6/21/13,RFC,null,null
+228,Electrical System Separation Islanding,2013,6/19/13,6/19/13,WECC,null,null
+229,Electrical System Separation Islanding,2013,6/18/13,6/18/13,WECC,6,null
+230,Load Shed of 100+ MW Under Emergency Operational Policy,2013,6/17/13,6/17/13,FRCC,180,37
+231,Severe Weather Thunderstorms,2013,6/13/13,6/14/13,SERC,550,165798
+232,Severe Weather Thunderstorms,2013,6/13/13,6/14/13,RFC SERC,null,90247
+233,Severe Weather Thunderstorms,2013,6/13/13,6/14/13,SERC,null,53000
+234,Severe Weather Thunderstorms,2013,6/13/13,6/14/13,SERC,1000,175000
+235,Severe Weather Thunderstorms,2013,6/13/13,6/14/13,SERC,900,283000
+236,Loss of 300+ MW Load Severe Weather Thunderstorms,2013,6/13/13,6/13/13,RFC,700,40000
+237,Electrical System Separation Islanding,2013,6/3/13,6/3/13,WECC,null,null
+238,Severe Weather Thunderstorms,2013,5/31/13,6/1/13,SERC,null,100000
+239,Transmission System Interruption,2013,5/31/13,6/1/13,MRO,102,6300
+240,Severe Weather Tornados,2013,5/31/13,6/4/13,SPP,null,127000
+241,Severe Weather Lightning,2013,5/31/13,5/31/13,SPP,null,null
+242,Vandalism,2013,5/30/13,5/30/13,NPCC,null,null
+243,Severe Weather Thunderstorms,2013,5/29/13,5/31/13,NPCC,null,61795
+244,VandalismTheft,2013,5/29/13,5/29/13,RFC,null,null
+245,Physical Attack,2013,5/29/13,5/29/13,SERC,null,null
+246,VandalismTheft,2013,5/28/13,5/28/13,NPCC,null,null
+247,System Wide Voltage Reduction,2013,5/22/13,5/22/13,PR,280,197287
+248,Generator Trip Load Shed 100+ MW,2013,5/20/13,5/20/13,SERC,103,21800
+249,Severe Weather Tornados,2013,5/20/13,5/22/13,SPP,null,41306
+250,Vandalism,2013,5/17/13,5/17/13,RFC,null,null
+251,Vandalism,2013,5/15/13,5/15/13,RFC,null,null
+252,VandalismTheft,2013,5/14/13,5/14/13,WECC,null,null
+253,Vandalism,2013,5/14/13,5/14/13,NPCC,null,null
+254,Fuel Supply Emergency Hydro,2013,5/13/13,null,WECC,176,null
+255,Electrical System Separation Islanding,2013,5/9/13,5/9/13,WECC,null,null
+256,Electrical System Separation Islanding,2013,5/2/13,5/2/13,WECC,null,null
+257,Electrical System Separation Islanding,2013,5/1/13,5/1/13,WECC,123,35230
+258,Vandalism,2013,4/25/13,4/26/13,WECC,0,0
+259,Vandalism,2013,4/23/13,4/23/13,RFC,null,null
+260,Electrical System Separation Islanding,2013,4/23/13,4/23/13,WECC,80,1
+261,Suspected Physical Attack,2013,4/21/13,4/21/13,SERC,null,null
+262,Severe Weather Storms and Wind,2013,4/18/13,4/21/13,RFC,null,99188
+263,Suspected Physical Attack,2013,4/17/13,4/17/13,SERC,null,null
+264,Loss of Part of a High Voltage Substation Physical Attack,2013,4/16/13,4/18/13,WECC,null,0
+265,Vandalism,2013,4/9/13,4/9/13,RFC,null,null
+266,Sabotage Vandalism,2013,4/3/13,4/3/13,WECC,0,0
+267,Vandalism Copper Wire Theft,2013,4/1/13,4/1/13,NPCC,null,null
+268,Suspected Physical Attack,2013,3/29/13,3/29/13,RFC,null,null
+269,Vandalism,2013,3/28/13,3/28/13,RFC,null,null
+270,Physical Attack Vandalism,2013,3/27/13,3/27/13,NPCC,null,null
+271,Vandalism,2013,3/23/13,3/23/13,NPCC,null,null
+272,Suspected Physical Attack,2013,3/18/13,3/18/13,FRCC,0,0
+273,Severe Weather Thunderstorms,2013,3/18/13,3/20/13,SERC,800,240000
+274,Generator Trip Load Shed,2013,3/18/13,3/18/13,PR,350,262937
+275,Severe Weather Winter Storm,2013,3/6/13,3/7/13,SERC,400,233000
+276,Equipment Failure Transmission System Interruption,2013,3/4/13,3/4/13,PR,null,null
+277,Vandalism,2013,3/3/13,3/3/13,RFC,null,null
+278,Transmission System Interruption,2013,3/3/13,3/3/13,WECC,300,58850
+279,Severe Weather Winter Storm Nemo,2013,2/26/13,3/1/13,SERC,null,56444
+280,Vandalism,2013,2/21/13,2/21/13,WECC,null,null
+281,Electrical System Separation Islanding,2013,2/19/13,2/20/13,WECC,13850,6810
+282,Vandalism,2013,2/16/13,2/16/13,RFC,1,1
+283,Vandalism,2013,2/15/13,2/15/13,RFC,null,null
+284,Fuel Supply Emergency Petroleum,2013,2/13/13,2/15/13,NPCC,1,1
+285,Vandalism,2013,2/13/13,2/13/13,RFC,1,1
+286,Generator Trip Voltage Reduction,2013,2/10/13,2/10/13,PR,350,null
+287,Vandalism Equipment Fault,2013,2/9/13,2/9/13,WECC,null,null
+288,Severe Weather Winter Storm Nemo,2013,2/8/13,2/11/13,NPCC,null,50000
+289,Equipment Trip and Failure,2013,2/8/13,2/8/13,RFC,140,52000
+290,Severe Weather Winter Storm Nemo,2013,2/8/13,2/12/13,NPCC,null,50000
+291,Vandalism,2013,2/7/13,2/7/13,RFC,null,0
+292,Vandalism,2013,2/2/13,2/2/13,WECC,null,null
+293,Severe Weather Wind Storm,2013,1/31/13,1/31/13,NPCC,75,75000
+294,Severe Weather Wind Storm,2013,1/31/13,1/31/13,SERC,188,119000
+295,Physical Attack,2013,1/28/13,1/28/13,WECC,null,null
+296,Severe Weather Wind Storm,2013,1/20/13,1/23/13,RFC,null,146500
+297,Distribution Interruption,2013,1/17/13,1/17/13,SERC,40,12000
+298,Severe Weather Winter Storm,2013,1/17/13,1/20/13,RFC,null,127000
+299,Severe Weather Winter Storm,2013,1/17/13,1/19/13,SERC,null,80000
+300,Suspected Physical Attack,2013,1/16/13,1/16/13,WECC,0,0
+301,Physcial Attack Vandalism,2013,1/16/13,1/16/13,RFC,null,null
+302,Physical Attack,2013,1/16/13,1/17/13,MRO,null,null
+303,Physcial Attack Vandalism,2013,1/7/13,1/7/13,RFC,null,null
+304,Transmission Interruption,2012,12/31/12,12/31/12,SERC,40,12000
+305,Severe Weather Thunderstorm,2012,12/26/12,12/26/12,SERC,3,1200
+306,Severe Weather Cold Front High Winds,2012,12/25/12,12/26/12,TRE,294,262000
+307,Severe Weather Winter Storm,2012,12/25/12,12/28/12,SPP,null,242509
+308,Suspected Physical Attack,2012,12/17/12,12/17/12,WECC,0,0
+309,Load Shed,2012,12/6/12,12/6/12,WECC,390,null
+310,Suspected Physical Attack,2012,12/3/12,12/3/12,WECC,0,0
+311,Severe Weather Winter Storm,2012,12/2/12,12/4/12,WECC,250,125000
+312,Physical Attack Vandalism,2012,11/27/12,11/27/12,NPCC,0,0
+313,Physical Attack Vandalism,2012,11/26/12,11/26/12,RFC,null,null
+314,Physical Attack Vandalism,2012,11/26/12,11/26/12,RFC,0,0
+315,Physical Attack Vandalism,2012,11/21/12,11/21/12,RFC,null,null
+316,Fuel Supply Deficiency,2012,11/17/12,11/18/12,TRE,1231,0
+317,Suspected Cyber Attack,2012,11/15/12,11/15/12,MRO,null,null
+318,Physical Attack Vandalism,2012,11/15/12,11/15/12,NPCC,0,0
+319,Physical Attack Vandalism,2012,11/8/12,11/8/12,RFC,0,0
+320,Physical Attack Vandalism,2012,11/7/12,11/7/12,NPCC,0,0
+321,Physical Attack Vandalism,2012,11/2/12,11/2/12,NPCC,0,0
+322,Severe Weather Nor'easter,2012,10/30/12,11/1/12,RFC,null,133777
+323,Physical Attack Vandalism,2012,10/30/12,10/30/12,WECC,null,null
+324,Vandalism,2012,10/30/12,10/30/12,NPCC,0,0
+325,Physical Attack Vandalism,2012,10/30/12,10/30/12,RFC,0,0
+326,Severe Weather Hurricane Sandy,2012,10/29/12,11/9/12,RFC,0,208000
+327,Severe Weather Hurricane Sandy,2012,10/29/12,11/5/12,RFC,0,346000
+328,Severe Weather Hurricane Sandy,2012,10/29/12,11/7/12,RFC,0,270000
+329,Severe Weather Hurricane Sandy,2012,10/29/12,11/4/12,RFC,null,217000
+330,Severe Weather Hurricane Sandy,2012,10/29/12,11/4/12,RFC,null,null
+331,Severe Weather Hurricane Sandy,2012,10/29/12,11/4/12,RFC,null,400000
+332,Severe Weather Hurricane Sandy,2012,10/29/12,11/4/12,NPCC,0,649075
+333,Severe Weather Hurricane Sandy,2012,10/29/12,10/30/12,RFC,520,156000
+334,Severe Weather Hurricane Sandy,2012,10/29/12,11/8/12,NPCC,0,818000
+335,Severe Weather Hurricane Sandy,2012,10/29/12,10/30/12,NPCC,null,50000
+336,Severe Weather Hurricane Sandy,2012,10/29/12,11/2/12,RFC,null,70000
+337,Severe Weather Hurricane Sandy,2012,10/29/12,11/8/12,RFC,null,150000
+338,Severe Weather Hurricane Sandy,2012,10/29/12,10/30/12,NPCC,null,50000
+339,Suspected Physical Attack,2012,10/29/12,10/29/12,WECC,null,null
+340,Severe Weather Hurricane Sandy,2012,10/29/12,11/12/12,NPCC,0,632816
+341,Severe Weather Hurricane Sandy,2012,10/29/12,11/6/12,NPCC,null,50000
+342,Severe Weather Hurricane Sandy,2012,10/29/12,11/4/12,NPCC,null,371000
+343,Severe Weather Hurricane Sandy,2012,10/29/12,10/31/12,RFC,0,219000
+344,Severe Weather Hurricane Sandy,2012,10/29/12,10/31/12,NPCC,null,50000
+345,Severe Weather Hurricane Sandy,2012,10/29/12,11/3/12,NPCC RFC,null,200000
+346,Physical Attack Vandalism,2012,10/29/12,10/29/12,WECC,0,0
+347,Severe Weather Nor'easter,2012,10/29/12,11/2/12,RFC SERC,null,173273
+348,Severe Weather Hurricane Sandy,2012,10/29/12,11/1/12,NPCC,null,50000
+349,Severe Weather Hurricane Sandy,2012,10/29/12,11/6/12,RFC,null,850000
+350,Physical Attack Vandalism,2012,10/25/12,10/25/12,RFC,0,0
+351,Physical Attack Vandalism,2012,10/25/12,10/25/12,WECC,0,0
+352,Physical Attack Vandalism,2012,10/25/12,10/25/12,RFC,null,null
+353,Physical Attack Vandalism,2012,10/24/12,10/24/12,RFC,0,0
+354,Physical Attack Vandalism,2012,10/24/12,10/24/12,RFC,0,0
+355,Suspected Physical Attack,2012,10/24/12,10/24/12,RFC,0,0
+356,Transmission System Interruption,2012,10/23/12,10/23/12,RFC,49,9800
+357,Physical Attack Vandalism,2012,10/22/12,10/22/12,RFC,0,0
+358,Vandalism Theft,2012,10/15/12,10/15/12,NPCC,0,0
+359,Electrical System Separation Islanding,2012,10/14/12,10/14/12,WECC,3,2035
+360,Vandalsim,2012,10/11/12,10/11/12,RFC,0,0
+361,Vandalsim,2012,10/9/12,10/9/12,RFC,0,0
+362,Suspected Physical Attack,2012,10/5/12,10/5/12,WECC,null,null
+363,Voltage Reduction,2012,9/26/12,9/26/12,PR,600,371526
+364,Suspected Physical Attack,2012,9/24/12,9/25/12,RFC,0,0
+365,Electrical System Separation Islanding,2012,9/11/12,9/11/12,WECC,0,0
+366,Severe Weather Thunderstorms,2012,9/8/12,9/9/12,SERC,475,119000
+367,Severe Weather Thunderstorms,2012,9/8/12,9/8/12,RFC,null,65000
+368,Severe Weather Thunderstorms,2012,9/7/12,9/8/12,SERC,null,64951
+369,Fuel Supply Deficiency Water,2012,9/6/12,null,WECC,null,null
+370,Electrical System Separation Islanding,2012,9/5/12,9/5/12,WECC,0,0
+371,Severe Weather Hurricane Isaac,2012,8/29/12,8/30/12,SERC,150,68018
+372,Severe Weather Hurricane Isaac,2012,8/29/12,8/31/12,SPP,null,95000
+373,Severe Weather Hurricane Isaac,2012,8/29/12,8/31/12,SERC,300,50000
+374,Severe Weather Hurricane Isaac,2012,8/28/12,9/4/12,SERC,null,770000
+375,Severe Weather TS Isaac,2012,8/26/12,8/27/12,FRCC,null,440000
+376,Suspected Physical Attack,2012,8/19/12,8/19/12,WECC,12,3314
+377,Vandalism,2012,8/16/12,8/16/12,RFC,0,0
+378,Severe Weather Dust Storm Load Shed Event,2012,8/13/12,8/13/12,WECC,655,null
+379,Vandalism,2012,8/13/12,8/13/12,SERC,null,null
+380,Suspected Physical Attack,2012,8/11/12,8/11/12,WECC,null,null
+381,Severe Weather Thunderstorms,2012,8/4/12,8/5/12,RFC,null,325000
+382,Severe Weather Thunderstorms,2012,8/4/12,8/4/12,RFC,null,61413
+383,Electrical System Separation Islanding,2012,8/4/12,8/4/12,WECC,5,127
+384,Public Appeal to Reduce Electricity Usage,2012,8/1/12,8/1/12,SPP,null,null
+385,Severe Weather Thunderstorms,2012,7/27/12,7/28/12,RFC,null,52702
+386,Severe Weather Thunderstorms,2012,7/26/12,7/28/12,RFC,null,65000
+387,Severe Weather Thunderstorms,2012,7/26/12,7/27/12,RFC,null,65112
+388,Severe Weather Thunderstorms,2012,7/26/12,7/27/12,RFC,null,57054
+389,Severe Weather Thunderstorms,2012,7/24/12,7/24/12,RFC,null,330000
+390,Severe Weather Thunderstorms,2012,7/24/12,7/24/12,RFC,null,82621
+391,Severe Weather Equipment Failure,2012,7/21/12,7/21/12,SPP,220,70000
+392,Vandalism,2012,7/19/12,7/19/12,RFC,null,null
+393,Fuel Supply Deficiency Coal,2012,7/19/12,7/31/12,NPCC,675,null
+394,Severe Weather Thunderstorms,2012,7/18/12,7/19/12,RFC,480,103000
+395,Severe Weather Thunderstorms,2012,7/18/12,7/18/12,RFC,null,67000
+396,Severe Weather Thunderstorms,2012,7/18/12,7/19/12,RFC,null,181000
+397,Public Appeal to Reduce Energy Usage,2012,7/16/12,7/16/12,SPP,null,null
+398,Energy Deficiency Alert,2012,7/9/12,7/9/12,WECC,9896,null
+399,Severe Weather Thunderstorms,2012,7/7/12,7/9/12,RFC,null,64500
+400,Severe Weather Thunderstorms,2012,7/7/12,7/9/12,RFC,null,95400
+401,Fuel Supply Deficiency Water,2012,7/7/12,7/10/12,WECC,null,0
+402,Vandalism,2012,7/6/12,7/6/12,WECC,null,null
+403,Severe Weather Thunderstorms,2012,7/5/12,7/6/12,RFC,null,111000
+404,Severe Weather Wind and Storms,2012,7/5/12,7/6/12,SERC,null,50001
+405,Operational Failure Storm Damage,2012,7/1/12,7/1/12,SERC,48,6100
+406,Severe Weather,2012,7/1/12,7/1/12,SERC,null,69106
+407,Severe Weather Thunderstorms,2012,7/1/12,7/3/12,RFC,null,320000
+408,Severe Weather Thunderstorms,2012,6/30/12,7/7/12,RFC,null,205000
+409,Public Appeal to Reduce Electricity Usage,2012,6/30/12,7/2/12,SERC,null,null
+410,Severe Weather Thunderstorms,2012,6/30/12,7/2/12,RFC,354,60000
+411,Severe Weather Thunderstorms,2012,6/30/12,7/3/12,RFC,0,86390
+412,Severe Weather Thunderstorms,2012,6/29/12,7/2/12,RFC,2946,4645572
+413,Public Appeal to Reduce Electricity Usage,2012,6/29/12,6/29/12,SERC,45,7935
+414,Severe Weather Thunderstorms,2012,6/29/12,7/7/12,RFC,null,145000
+415,Severe Weather Thunderstorms,2012,6/29/12,7/4/12,RFC,500,175000
+416,Equipment Trip and Failure,2012,6/29/12,6/29/12,PR,1800,900000
+417,Severe Weather Thunderstorms,2012,6/29/12,7/2/12,RFC,null,1355919
+418,Severe Weather Thunderstorms,2012,6/29/12,7/4/12,SERC,5000,880000
+419,Severe Weather Thunderstorms,2012,6/29/12,7/5/12,RFC,3000,425000
+420,Severe Weather Thunderstorms,2012,6/29/12,7/5/12,RFC,1465,600000
+421,Physical Attack,2012,6/29/12,6/29/12,RFC,0,0
+422,Severe Weather Thunderstorms,2012,6/29/12,7/6/12,RFC,700,265000
+423,Severe Weather Thunderstorms,2012,6/29/12,6/30/12,RFC,null,109000
+424,Severe Weather Wind and Rain,2012,6/25/12,6/26/12,SERC,600,190000
+425,Load Shed,2012,6/23/12,6/23/12,NPCC,51,29250
+426,Severe Weather Thunderstorms,2012,6/19/12,6/20/12,MRO,null,68200
+427,Fuel Supply Deficiency Water,2012,6/19/12,6/21/12,WECC,null,null
+428,Vandalism,2012,6/13/12,6/13/12,WECC,0,0
+429,Severe Weather Thunderstorms,2012,6/12/12,6/14/12,TRE,920,175000
+430,Severe Weather Thunderstorms,2012,6/11/12,6/12/12,SERC,368,110591
+431,Load Shed,2012,6/8/12,6/8/12,WECC,120,30379
+432,Vandalism,2012,6/6/12,6/6/12,RFC,0,0
+433,Vandalism,2012,6/6/12,6/6/12,NPCC,null,null
+434,Vandalism,2012,6/2/12,6/2/12,WECC,null,null
+435,Physical Attack,2012,5/31/12,6/1/12,RFC,0,0
+436,Physical Attack,2012,5/29/12,5/29/12,WECC,null,null
+437,Severe Weather Thunderstorms,2012,5/29/12,5/31/12,SPP,null,112000
+438,Physical Attack,2012,5/24/12,5/25/12,NPCC,null,null
+439,Vandalism,2012,5/11/12,5/11/12,WECC,null,null
+440,Load ShedSevere Weather Lightning Storm,2012,5/7/12,5/7/12,RFC,420,1
+441,Vandalism,2012,5/7/12,5/7/12,NPCC,0,0
+442,Suspected Physical Attack,2012,4/23/12,4/23/12,WECC,null,null
+443,Suspected Physical Attack,2012,4/23/12,4/23/12,RFC,null,null
+444,Physical Attack,2012,4/21/12,4/21/12,NPCC,null,null
+445,Suspected Physical Attack,2012,4/21/12,4/23/12,WECC,null,null
+446,Severe Weather Thunderstorms,2012,4/20/12,4/21/12,TRE,null,120377
+447,Suspected Physical Attack,2012,4/19/12,4/19/12,WECC,null,null
+448,Suspected Physical Attack,2012,4/17/12,4/17/12,WECC,0,0
+449,Severe Weather High Winds,2012,4/16/12,4/19/12,RFC,218,111393
+450,Suspected Physical Attack,2012,4/15/12,4/15/12,SERC,null,null
+451,Suspected Physical Attack,2012,4/12/12,4/12/12,WECC,null,null
+452,Vandalism,2012,4/11/12,4/11/12,NPCC,0,0
+453,Physical Attack,2012,4/7/12,4/7/12,RFC,0,0
+454,Physical Attack,2012,4/7/12,4/7/12,RFC,0,0
+455,Physical Attack,2012,4/7/12,4/7/12,RFC,0,0
+456,Suspected Physical Attack,2012,4/4/12,4/6/12,WECC,null,null
+457,Physical Attack,2012,4/3/12,4/3/12,WECC,0,0
+458,Vandalism,2012,4/3/12,4/3/12,NPCC,0,0
+459,Vandalism,2012,4/1/12,4/3/12,MRO,0,0
+460,Suspected Physical Attack,2012,3/30/12,3/30/12,NPCC,null,null
+461,Electrical System Separation Islanding,2012,3/29/12,3/29/12,RFC,null,0
+462,Suspected Physical Attack,2012,3/28/12,3/28/12,WECC,null,null
+463,Suspected Physical Attack,2012,3/26/12,3/26/12,WECC,null,null
+464,Suspected Physical Attack,2012,3/23/12,3/23/12,RFC,0,0
+465,Severe Weather Thunderstorms,2012,3/20/12,3/20/12,TRE,null,96000
+466,Suspected Physical Attack,2012,3/16/12,3/16/12,RFC,0,0
+467,Suspected Physical Attack,2012,3/4/12,3/5/12,SERC,null,null
+468,Suspected Physical Attack,2012,3/4/12,3/4/12,RFC,null,null
+469,Severe Weather Winter Storm,2012,3/2/12,3/4/12,RFC,50,140000
+470,Severe Weather Winter Storm,2012,3/2/12,3/5/12,RFC,371,130000
+471,Operational FailureEquipment Malfunction,2012,3/2/12,3/2/12,SERC,null,null
+472,Severe Weather Tornadoes,2012,3/2/12,3/5/12,SERC,500,null
+473,Suspected Physical Attack,2012,2/28/12,2/28/12,WECC,null,null
+474,Electrical System Separation Islanding,2012,2/28/12,2/28/12,WECC,1,1
+475,Suspected Physical Attack,2012,2/24/12,2/24/12,WECC,null,null
+476,Suspected Physical Attack,2012,2/23/12,2/23/12,TRE,0,0
+477,Suspected Physical Attack,2012,2/23/12,2/24/12,NPCC,0,0
+478,Severe Weather Winter Storm,2012,2/19/12,2/21/12,SERC,null,90000
+479,Suspected Cyber Attack,2012,2/17/12,2/17/12,SERC,null,null
+480,Suspected Physical Attack,2012,2/15/12,2/15/12,WECC,0,0
+481,Suspected Physical Attack,2012,2/14/12,2/15/12,WECC,null,null
+482,Suspected Physical Attack,2012,2/13/12,2/13/12,SERC,null,null
+483,Suspected Physical Attack,2012,2/11/12,2/11/12,WECC,0,0
+484,Suspected Physical Attack,2012,2/11/12,2/11/12,WECC,null,null
+485,Vandalism,2012,1/29/12,1/29/12,WECC,null,null
+486,Vandalism,2012,1/27/12,1/27/12,WECC,null,null
+487,Vandalism,2012,1/24/12,1/24/12,WECC,null,null
+488,Severe Weather Winter Storm,2012,1/19/12,1/20/12,WECC,1600,426000
+489,Suspected Cyber Attack,2012,1/17/12,1/17/12,TRE,null,0
+490,Vandalism,2012,1/15/12,1/15/12,WECC,null,null
+491,Physical Attack,2012,1/13/12,1/13/12,RFC,0,0
+492,Physical Attack,2012,1/12/12,1/12/12,RFC,0,0
+493,Suspected Physical Attack,2012,1/11/12,1/11/12,WECC,0,0
+494,Load Shed,2012,1/10/12,1/10/12,TRE,null,null
+495,Vandalism,2012,1/9/12,1/9/12,NPCC,null,null
+496,Load Shed,2012,1/9/12,1/11/12,SERC,150,1
+497,Sabotage,2012,1/5/12,1/5/12,SPP,0,0
+498,Suspected physical attack,2012,1/5/12,1/5/12,SPP,null,null
+499,Suspected physical attack,2012,1/4/12,1/4/12,WECC,null,null
+500,Suspected Physical Attack,2011,12/31/11,12/31/11,WECC,null,null
+501,Suspected Cyber Attack,2011,12/21/11,12/21/11,WECC,0,0
+502,Suspected Physical Attack,2011,12/20/11,12/20/11,WECC,null,null
+503,Suspected Physical Attack,2011,12/20/11,12/20/11,WECC,12,2500
+504,Suspected Physical Attack,2011,12/19/11,12/19/11,WECC,null,null
+505,Suspected Physical Attack,2011,12/13/11,12/14/11,RFC,null,0
+506,Suspected Physical Attack,2011,12/8/11,12/8/11,WECC,null,null
+507,Severe Weather,2011,12/7/11,12/7/11,SERC,240,60000
+508,Public Appeal to Reduce Electricity Usage,2011,12/6/11,12/6/11,MRO,155,34500
+509,Suspected Physical Attack,2011,12/6/11,12/7/11,RFC,0,0
+510,Suspected Physical Attack,2011,12/5/11,12/6/11,WECC,null,null
+511,Suspected Physical Attack,2011,12/2/11,12/2/11,TRE,null,null
+512,Severe Weather,2011,12/1/11,12/7/11,WECC,null,91690
+513,Severe Weather,2011,12/1/11,12/2/11,WECC,null,60000
+514,Severe Weather,2011,12/1/11,12/2/11,WECC,300,100000
+515,Vandalism,2011,11/30/11,11/30/11,WECC,0,0
+516,Severe Weather,2011,11/30/11,12/2/11,WECC,null,150000
+517,Suspected Physical Attack,2011,11/22/11,11/22/11,RFC,0,0
+518,Vandalism,2011,11/14/11,11/14/11,RFC,0,0
+519,Vandalism,2011,11/13/11,11/13/11,NPCC,0,0
+520,Vandalism,2011,11/4/11,11/4/11,WECC,0,0
+521,Severe Weather,2011,10/29/11,11/3/11,RFC,null,146721
+522,Severe Weather,2011,10/29/11,11/2/11,NPCC,null,50000
+523,Severe Weather,2011,10/29/11,10/31/11,NPCC RFC,null,74000
+524,Severe Weather,2011,10/29/11,11/7/11,RFC,null,312359
+525,Severe Weather,2011,10/29/11,11/7/11,NPCC,null,1418100
+526,Severe Weather,2011,10/29/11,11/7/11,RFC,null,50000
+527,Severe Weather,2011,10/29/11,10/31/11,RFC,null,109335
+528,Severe Weather,2011,10/29/11,11/7/11,RFC,null,379000
+529,Severe Weather,2011,10/29/11,11/6/11,RFC,125,197000
+530,Severe Weather,2011,10/29/11,11/2/11,NPCC,null,145000
+531,Severe Weather,2011,10/29/11,11/4/11,NPCC,null,161151
+532,Vandalism,2011,10/27/11,10/27/11,RFC,null,null
+533,Severe Weather,2011,10/26/11,10/27/11,WECC,null,204000
+534,Suspected Physical Attack,2011,10/24/11,10/26/11,RFC,0,0
+535,Vandalism,2011,10/20/11,10/20/11,RFC,0,0
+536,Suspected Physical Attack,2011,10/18/11,10/18/11,RFC,0,0
+537,Vandalism,2011,10/17/11,10/17/11,RFC,7,2000
+538,Vandalism,2011,10/17/11,10/17/11,RFC,0,0
+539,Vandalism,2011,10/14/11,10/14/11,RFC,0,0
+540,Suspected Physical Attack,2011,10/7/11,10/7/11,WECC,null,null
+541,Vandalism,2011,10/6/11,10/6/11,WECC,0,0
+542,Suspected Physical Attack,2011,9/30/11,9/30/11,RFC,0,0
+543,Vandalism,2011,9/29/11,9/30/11,WECC,null,null
+544,Severe Weather,2011,9/29/11,9/30/11,TRE,null,65000
+545,Suspected Physical Attack,2011,9/28/11,9/28/11,RFC,0,0
+546,Vandalism,2011,9/28/11,9/28/11,RFC,0,0
+547,Vandalism,2011,9/28/11,9/28/11,NPCC,null,null
+548,Vandalism,2011,9/26/11,9/26/11,RFC,0,0
+549,Vandalism,2011,9/24/11,9/25/11,WECC,null,null
+550,Vandalism,2011,9/23/11,9/23/11,NPCC,0,0
+551,Vandalism,2011,9/22/11,9/22/11,RFC,null,0
+552,Generation Inadequacy Load Shed,2011,9/21/11,9/21/11,PR,600,319616
+553,Suspected Physical Attack,2011,9/21/11,9/21/11,RFC,0,0
+554,Vandalism,2011,9/20/11,9/20/11,WECC,null,null
+555,Vandalism,2011,9/14/11,9/14/11,WECC,0,0
+556,Vandalism,2011,9/13/11,9/13/11,NPCC,null,0
+557,Vandalism,2011,9/13/11,9/14/11,WECC,null,null
+558,Vandalism,2011,9/12/11,9/12/11,RFC,0,0
+559,Vandalism,2011,9/8/11,9/9/11,WECC,null,null
+560,TransmissionDistribution Interruption Load Shed Generation Inadequacy,2011,9/8/11,9/10/11,WECC,7000,2000000
+561,Actual Physical Attack,2011,9/7/11,9/7/11,NPCC,0,0
+562,Severe Weather,2011,9/5/11,9/7/11,SERC,177,53295
+563,Severe Weather,2011,9/3/11,9/8/11,RFC,null,105000
+564,Vandalism,2011,9/1/11,9/1/11,WECC,null,null
+565,Suspected Physical Attack,2011,8/31/11,8/31/11,RFC,0,0
+566,Suspected Physical Attack,2011,8/28/11,8/28/11,WECC,0,0
+567,Severe Weather,2011,8/28/11,8/28/11,NPCC,null,116000
+568,Severe Weather,2011,8/28/11,8/28/11,NPCC,null,50000
+569,Severe Weather,2011,8/28/11,8/29/11,NPCC,null,158000
+570,Severe Weather,2011,8/28/11,9/3/11,NPCC,null,50000
+571,Severe Weather,2011,8/28/11,8/30/11,NPCC,null,152261
+572,Severe Weather,2011,8/28/11,8/30/11,RFC,110,284000
+573,Severe Weather,2011,8/28/11,8/30/11,RFC,null,650000
+574,Severe Weather,2011,8/28/11,8/30/11,RFC,500,665000
+575,Severe Weather,2011,8/28/11,9/3/11,NPCC,null,99700
+576,Severe Weather,2011,8/28/11,8/30/11,NPCC,null,100000
+577,Severe Weather,2011,8/28/11,8/30/11,NPCC,null,180000
+578,Severe Weather,2011,8/27/11,9/4/11,RFC,1114,760113
+579,Severe Weather,2011,8/27/11,8/29/11,SERC,null,285465
+580,Severe Weather,2011,8/27/11,8/29/11,RFC,null,264000
+581,Severe Weather,2011,8/27/11,8/29/11,RFC,320,140000
+582,Severe Weather,2011,8/27/11,8/29/11,RFC,null,220000
+583,Severe Weather,2011,8/27/11,8/29/11,SERC,null,1000000
+584,Severe Weather,2011,8/27/11,8/29/11,SERC,200,136000
+585,Severe Weather,2011,8/27/11,8/29/11,RFC,null,165000
+586,Severe Weather,2011,8/27/11,8/29/11,RFC,null,108000
+587,Distribution System Interruption,2011,8/27/11,8/27/11,SERC,2,1200
+588,Severe Weather,2011,8/26/11,8/28/11,RFC,null,200717
+589,Severe Weather,2011,8/25/11,8/28/11,RFC,null,107833
+590,Suspected Physical Attack,2011,8/25/11,8/25/11,NPCC,0,0
+591,Severe Weather,2011,8/24/11,8/24/11,SPP,null,53064
+592,Public Appeal to Reduce Electricity Usage,2011,8/24/11,8/29/11,TRE,0,0
+593,Severe Weather,2011,8/24/11,8/25/11,TRE,485,79000
+594,Public Appeal to Reduce Electricity Usage,2011,8/23/11,8/23/11,TRE,0,0
+595,Public Appeal to Reduce Electricity Usage,2011,8/23/11,8/23/11,SPP,0,0
+596,Earthquake,2011,8/23/11,8/23/11,RFC,0,0
+597,Suspected Physical Attack,2011,8/22/11,8/22/11,WECC,null,null
+598,Severe Weather,2011,8/21/11,8/23/11,PR,2200,931000
+599,Severe Weather,2011,8/20/11,8/23/11,RFC,254,65000
+600,Suspected Physical Attack,2011,8/18/11,8/18/11,WECC,null,null
+601,Vandalism,2011,8/15/11,8/15/11,WECC,0,0
+602,Severe Weather,2011,8/13/11,8/14/11,SERC,null,181700
+603,Vandalism,2011,8/9/11,8/9/11,WECC,null,null
+604,Severe Weather,2011,8/8/11,8/10/11,SPP,null,54000
+605,Vandalism,2011,8/8/11,8/8/11,WECC,null,null
+606,Electrical System Separation Islanding,2011,8/8/11,8/9/11,SPP,92,14500
+607,Suspected Physical Attack,2011,8/8/11,8/8/11,RFC,0,0
+608,Public Appeal to Reduce Electricity Usage,2011,8/4/11,8/4/11,SPP,null,null
+609,Public Appeal to Reduce Electricity Usage,2011,8/3/11,8/3/11,SPP,300,null
+610,Public Appeal to Reduce Electricity Usage,2011,8/3/11,8/3/11,SPP,0,0
+611,Fuel Supply Deficiency Coal,2011,8/3/11,8/19/11,NPCC,675,null
+612,Severe Weather,2011,8/2/11,8/3/11,RFC,null,71500
+613,Public Appeal to Reduce Electricity Usage,2011,8/2/11,8/3/11,SPP,null,null
+614,Public Appeal to Reduce Electricity Usage,2011,8/1/11,8/5/11,TRE,0,0
+615,Vandalism,2011,8/1/11,8/1/11,WECC,null,null
+616,Vandalism,2011,7/29/11,7/29/11,WECC,null,null
+617,Severe Weather,2011,7/29/11,8/1/11,RFC,null,67900
+618,Vandalism,2011,7/28/11,7/28/11,WECC,null,null
+619,Vandalism,2011,7/28/11,7/28/11,RFC,null,null
+620,Severe Weather,2011,7/28/11,7/29/11,RFC,null,201000
+621,Fuel Supply Deficiency Coal,2011,7/28/11,7/29/11,SERC,null,null
+622,Vandalism,2011,7/27/11,7/27/11,WECC,null,null
+623,Vandalism,2011,7/26/11,7/26/11,SPP,0,0
+624,Vandalism,2011,7/24/11,7/24/11,NPCC,0,0
+625,Severe Weather,2011,7/23/11,7/24/11,RFC,null,169000
+626,Public Appeal to Reduce Electricity Usage,2011,7/22/11,7/22/11,NPCC,null,null
+627,Load Shed,2011,7/22/11,7/22/11,RFC,206,23000
+628,Public Appeal to Reduce Electricity Usage,2011,7/21/11,7/21/11,SERC,null,null
+629,Public Appeal to Reduce Electricity Usage,2011,7/21/11,7/22/11,RFC,8881,null
+630,Vandalism,2011,7/20/11,7/20/11,WECC,null,null
+631,Vandalism,2011,7/19/11,7/19/11,NPCC,null,null
+632,Severe Weather,2011,7/18/11,7/24/11,RFC,null,197166
+633,Public Appeal to Reduce Electricity Usage,2011,7/14/11,7/14/11,TRE,0,0
+634,Load Shed,2011,7/13/11,7/13/11,WECC,580,null
+635,Suspected Physical Attack,2011,7/12/11,7/12/11,WECC,null,null
+636,Vandalism,2011,7/12/11,7/12/11,NPCC,null,0
+637,Severe Weather,2011,7/11/11,7/12/11,RFC,null,120000
+638,Vandalism,2011,7/11/11,7/11/11,NPCC,null,0
+639,Vandalism,2011,7/11/11,7/11/11,RFC,0,0
+640,Severe Weather,2011,7/11/11,7/11/11,RFC,254,103000
+641,Severe Weather,2011,7/11/11,7/11/11,RFC,null,500000
+642,Severe Weather,2011,7/11/11,7/12/11,RFC,null,85000
+643,Vandalism,2011,7/8/11,7/8/11,MRO,0,0
+644,Suspected Cyber Attack,2011,7/8/11,7/11/11,RFC,null,null
+645,Vandalism,2011,7/6/11,7/6/11,NPCC,null,null
+646,Vandalism,2011,7/5/11,7/5/11,WECC,0,0
+647,Severe Weather,2011,7/4/11,7/4/11,SERC,150,51580
+648,Severe Weather,2011,7/2/11,7/6/11,RFC,null,182000
+649,Vandalism,2011,7/1/11,7/1/11,RFC,null,0
+650,Severe Weather,2011,7/1/11,7/3/11,MRO,null,70000
+651,Vandalism,2011,7/1/11,7/1/11,NPCC,0,0
+652,Major System InterruptionLoad Shed,2011,6/30/11,6/30/11,WECC,5299,160000
+653,Vandalism,2011,6/30/11,6/30/11,WECC,0,0
+654,Severe Weather,2011,6/30/11,7/1/11,RFC,null,121000
+655,Public Appeal to Reduce Electricity Usage,2011,6/29/11,6/29/11,SPP,0,0
+656,Public Appeal to Reduce Electricity Usage,2011,6/27/11,6/27/11,TRE,0,0
+657,Vandalism,2011,6/27/11,6/27/11,WECC,null,null
+658,Severe Thunderstorms,2011,6/27/11,6/29/11,SERC,null,80000
+659,Severe Thunderstorms,2011,6/26/11,6/27/11,SERC,300,90160
+660,Public Appeal to Reduce Electricity Usage,2011,6/26/11,6/27/11,SPP,null,null
+661,Severe Thunderstorms,2011,6/24/11,6/25/11,SERC,340,102275
+662,Vandalism,2011,6/23/11,6/23/11,NPCC,0,0
+663,Vandalism,2011,6/22/11,6/22/11,WECC,0,0
+664,Severe Weather,2011,6/22/11,6/22/11,SERC,null,106300
+665,Severe Thunderstorms,2011,6/22/11,6/23/11,SERC,316,75101
+666,Severe Weather,2011,6/21/11,6/22/11,RFC,null,56000
+667,Severe Thunderstorms,2011,6/21/11,6/23/11,RFC,null,300000
+668,Vandalism,2011,6/20/11,6/20/11,WECC,0,0
+669,Public Appeal to Reduce Electricity Usage,2011,6/18/11,6/20/11,SPP,null,null
+670,Severe Thunderstorms,2011,6/18/11,6/18/11,SERC,300,70000
+671,Severe Thunderstorms,2011,6/18/11,6/19/11,SERC,312,93828
+672,Vandalism,2011,6/15/11,6/16/11,WECC,null,null
+673,Severe Thunderstorms,2011,6/15/11,6/16/11,SERC,563,169000
+674,Severe Thunderstorms,2011,6/15/11,6/16/11,SERC,300,70135
+675,Severe Thunderstorms,2011,6/12/11,6/12/11,RFC,250,56000
+676,Suspected Physical Attack,2011,6/9/11,6/9/11,WECC,0,0
+677,Severe Thunderstorms,2011,6/9/11,6/10/11,NPCC,0,100000
+678,Severe Thunderstorms,2011,6/9/11,6/9/11,RFC,null,169000
+679,Vandalism,2011,6/8/11,6/8/11,WECC,null,null
+680,Severe Weather,2011,6/7/11,6/8/11,RFC,null,52747
+681,Public Appeal to Reduce Electricity Usage,2011,6/6/11,6/8/11,SPP,null,13000
+682,Load Shed Automatic undervoltage relay action,2011,6/6/11,6/6/11,SPP,450,162000
+683,Electrical System Separation Islanding,2011,6/5/11,6/5/11,WECC,10,5314
+684,Severe Thunderstorms,2011,6/5/11,6/6/11,TRE,473,78000
+685,Vandalism,2011,6/4/11,6/4/11,WECC,null,420
+686,Severe Weather,2011,6/2/11,6/4/11,SERC,0,50465
+687,Severe Weather,2011,5/29/11,5/31/11,RFC,250,113000
+688,Severe Weather,2011,5/26/11,5/27/11,RFC,150,120001
+689,Transmission Level Interruption,2011,5/26/11,5/26/11,SERC,30,10000
+690,Severe Weather,2011,5/26/11,5/28/11,SERC,729,218783
+691,Severe Weather,2011,5/25/11,5/28/11,RFC,200,141000
+692,Severe Weather,2011,5/24/11,5/26/11,SPP,null,54000
+693,Severe Weather,2011,5/24/11,5/25/11,SERC,790,175000
+694,Physical Attack,2011,5/24/11,5/25/11,RFC,0,0
+695,Severe Weather,2011,5/23/11,5/25/11,RFC,1024,215387
+696,Severe Weather,2011,5/23/11,5/25/11,SERC,null,70000
+697,Severe Weather,2011,5/22/11,5/31/11,SPP,200,20000
+698,Physical Attack,2011,5/21/11,5/22/11,WECC,56,null
+699,Vandalism,2011,5/13/11,5/13/11,WECC,0,0
+700,Severe Weather,2011,5/11/11,5/11/11,SERC,300,71000
+701,Vandalism,2011,5/11/11,5/12/11,MRO,0,0
+702,Vandalism,2011,5/11/11,5/11/11,WECC,0,0
+703,Vandalism,2011,5/11/11,5/11/11,NPCC,0,0
+704,Vandalism,2011,5/10/11,5/10/11,NPCC,0,0
+705,Severe Weather,2011,5/10/11,5/11/11,RFC,null,58000
+706,Generation Inadequacy Load Shed Electrical System Separation Islanding,2011,5/10/11,5/11/11,RFC,585,78213
+707,Vandalism,2011,5/9/11,5/9/11,NPCC,0,0
+708,Suspected Physical Attack,2011,5/9/11,5/9/11,RFC,630,null
+709,Vandalism,2011,5/8/11,5/8/11,NPCC,null,0
+710,Vandalism,2011,5/6/11,5/6/11,WECC,0,0
+711,Vandalism,2011,5/5/11,5/5/11,NPCC,0,0
+712,Suspected Sabotage,2011,5/4/11,5/4/11,RFC,0,0
+713,Suspected Physical Attack,2011,5/4/11,5/4/11,RFC,0,0
+714,Suspected Physical Attack,2011,5/3/11,5/5/11,NPCC,0,0
+715,Severe Weather,2011,5/2/11,5/2/11,PR,220,62000
+716,Suspected Physical Attack,2011,5/2/11,5/2/11,NPCC,0,0
+717,Vandalism,2011,5/2/11,5/2/11,WECC,0,0
+718,Severe Weather,2011,4/28/11,4/30/11,RFC,null,86000
+719,Equipment Malfunction,2011,4/28/11,4/28/11,WECC,960,null
+720,Severe Weather,2011,4/27/11,4/29/11,SERC,null,612000
+721,Severe Weather,2011,4/27/11,5/2/11,SERC,1422,426640
+722,Severe Weather,2011,4/27/11,4/28/11,SERC,0,69000
+723,Severe Weather,2011,4/26/11,4/28/11,SPP,50,13000
+724,Vandalism,2011,4/26/11,4/26/11,WECC,0,0
+725,Severe Weather,2011,4/26/11,4/27/11,SPP,120,null
+726,Severe Weather,2011,4/26/11,4/28/11,SERC,null,55000
+727,Severe Weather,2011,4/25/11,4/27/11,SPP,null,141700
+728,Equipment Malfunction,2011,4/25/11,4/25/11,SERC,140,null
+729,Severe Weather,2011,4/22/11,4/22/11,SERC,0,55000
+730,Suspicious Activity,2011,4/21/11,4/29/11,RFC,null,null
+731,Vandalism,2011,4/21/11,4/21/11,WECC,0,0
+732,Severe Weather High Winds,2011,4/20/11,4/21/11,RFC,null,165711
+733,Equipment Malfunction,2011,4/20/11,4/20/11,SERC,33,11000
+734,Severe Weather,2011,4/19/11,4/19/11,SERC,null,80000
+735,Severe Weather,2011,4/19/11,4/20/11,SERC,22,null
+736,Severe Weather,2011,4/19/11,4/21/11,SERC,300,105000
+737,Vandalism,2011,4/19/11,4/19/11,WECC,0,0
+738,Severe Weather,2011,4/19/11,4/20/11,SERC,100,64000
+739,Severe Weather,2011,4/16/11,4/17/11,SERC,null,220000
+740,Suspicious Activity,2011,4/11/11,4/11/11,WECC,0,0
+741,Vandalism,2011,4/6/11,4/6/11,RFC,0,0
+742,Severe Weather,2011,4/5/11,4/7/11,SERC,1200,256000
+743,Severe Weather,2011,4/4/11,4/5/11,SERC,674,303434
+744,Severe Weather,2011,4/4/11,4/5/11,SERC,null,74645
+745,Severe Weather,2011,4/4/11,4/5/11,RFC,null,52920
+746,Severe Weather,2011,4/4/11,4/8/11,SERC,300,73000
+747,Severe Weather,2011,4/4/11,4/8/11,SERC,359,63000
+748,Severe Weather,2011,4/4/11,4/5/11,SERC,300,63000
+749,Suspected Cyber Attack,2011,4/3/11,4/5/11,SERC,0,0
+750,Severe Weather,2011,3/31/11,4/1/11,FRCC,null,50000
+751,Severe Weather,2011,3/31/11,3/31/11,FRCC,206,87000
+752,Transmission Level Outage,2011,3/27/11,3/27/11,WECC,295,165000
+753,Major Storm,2011,3/23/11,3/24/11,RFC,null,60596
+754,Major Storm,2011,3/21/11,3/21/11,WECC,150,54332
+755,Vandalism,2011,3/21/11,3/21/11,NPCC,null,null
+756,Major Storm,2011,3/20/11,3/21/11,WECC,null,79000
+757,Major Storm,2011,3/19/11,3/24/11,WECC,91,128000
+758,Vandalism,2011,3/18/11,3/18/11,RFC,null,null
+759,Vandalism,2011,3/17/11,3/17/11,NPCC,null,null
+760,Suspected Physical Attack,2011,3/15/11,3/15/11,TRE,null,null
+761,Suspected Cyber Attack,2011,3/14/11,3/14/11,RFC,null,null
+762,Severe Weather,2011,3/13/11,3/14/11,WECC,null,9000
+763,Generation InadequacyLoad Shed,2011,3/11/11,3/11/11,WECC,15,6800
+764,Suspected Physical Attack,2011,3/10/11,3/11/11,TRE,null,null
+765,Fuel Supply Deficiency Coal,2011,3/8/11,3/18/01,NPCC,676,null
+766,Vandalism,2011,3/6/11,3/8/11,WECC,null,0
+767,Fuel Supply Deficiency Coal,2011,3/1/11,3/5/11,NPCC,675,null
+768,Severe Weather,2011,2/25/11,2/27/11,RFC,null,93000
+769,Severe Weather,2011,2/25/11,2/25/11,SERC,null,50000
+770,Winter Storm,2011,2/25/11,2/28/11,WECC,91,80000
+771,Vandalism,2011,2/25/11,2/25/11,WECC,0,0
+772,Electrical System Separation Islanding,2011,2/24/11,2/24/11,SPP,4,null
+773,Winter Storm,2011,2/20/11,2/23/11,RFC,262,160000
+774,Vandalism,2011,2/19/11,2/19/11,RFC,0,0
+775,Major Storm,2011,2/19/11,2/20/11,RFC,null,118000
+776,Suspected Cyber Attack,2011,2/17/11,2/23/11,WECC,0,0
+777,Major Storm,2011,2/17/11,2/19/11,WECC,91,80000
+778,Vandalism,2011,2/10/11,2/10/11,WECC,0,0
+779,Vandalism,2011,2/9/11,2/9/11,WECC,0,0
+780,Cold Weather Event,2011,2/9/11,2/10/11,TRE,null,null
+781,Winter Storm,2011,2/9/11,2/9/11,TRE,399,60000
+782,Suspected Cyber Attack,2011,2/3/11,2/3/11,RFC,null,0
+783,Generation InadequacyLoad Shed,2011,2/3/11,2/4/11,TRE,400,86013
+784,Fuel Supply Deficiency Natural Gas,2011,2/3/11,2/4/11,WECC,null,null
+785,Winter Storm,2011,2/2/11,2/4/11,RFC,null,213000
+786,Generation InadequacyLoad Shed,2011,2/2/11,2/2/11,WECC,280,178000
+787,Fuel Supply Deficiency Natural Gas,2011,2/2/11,2/3/11,SPP,null,null
+788,Generation InadequacyLoad Shed,2011,2/2/11,2/3/11,TRE,4000,1069730
+789,Generation InadequacyLoad Shed,2011,2/2/11,2/2/11,WECC,3963,69000
+790,Winter Storm,2011,2/1/11,2/2/11,RFC,null,190000
+791,Winter Storm,2011,2/1/11,2/3/11,RFC,null,158013
+792,Ice Storm,2011,1/31/11,2/3/11,RFC,996,272880
+793,Vandalism,2011,1/27/11,1/27/11,RFC,0,0
+794,Fuel Supply Deficiency Coal,2011,1/27/11,1/30/11,NPCC,108,null
+795,Winter Storm,2011,1/26/11,1/27/11,SERC,600,150084
+796,Winter Storm,2011,1/26/11,1/29/11,RFC,null,234326
+797,Suspected Telecommunications Attack,2011,1/26/11,1/27/11,WECC,0,0
+798,Vandalism,2011,1/26/11,1/27/11,RFC,0,0
+799,Winter Storm,2011,1/26/11,1/31/11,RFC,null,210000
+800,Vandalism,2011,1/25/11,1/25/11,RFC,0,0
+801,Suspicious Activity,2011,1/24/11,1/24/11,WECC,0,0
+802,Vandalism,2011,1/23/11,1/23/11,WECC,0,0
+803,Vandalism,2011,1/18/11,1/18/11,NPCC,0,0
+804,Firm System Load Shed,2011,1/13/11,1/13/11,FRCC,150,20900
+805,Winter Storm,2011,1/12/11,1/12/11,NPCC,null,80000
+806,Electrical Fault at Generator,2011,1/11/11,1/11/11,NPCC,0,0
