@@ -8,6 +8,7 @@ html {
 
  body {
         font-family: "Darker Grotesque";
+        height: 100%;
         font-size: 18px;
         position: absolute;
         left: 6%;
@@ -16,6 +17,7 @@ html {
         padding-bottom: 20px;
         text-align: justify;
     }
+
 
     .button-37 {
         background-color: #13aa52;
@@ -26,9 +28,7 @@ html {
         color: #fff;
         width: 220px;
         cursor: pointer;
-        font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont, sans-serif;
         font-size: 16px;
-        font-weight: 400;
         outline: none;
         outline: 0;
         padding: 10px 25px;
@@ -45,11 +45,56 @@ html {
         transform: translateY(-2px);
     }
 
-    @media screen and (max-width: 640px) {
 
-        body {
-            left: 6px;
-            right: 6px;
-        }
+.book a:link {
+  color: red;
+}
+.book a:visited {
+  color: red;
+}
+.book a:hover {
+  color: green;
+}
+    
+* {
+  box-sizing: border-box;
+}
 
+.log-form {
+  width: 40%; 
+  min-width: 320px;
+  max-width: 475px;
+  background: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+}
+
+.log-form form {
+  padding: 2em;
+}
+.log-form input {
+  margin: auto auto;
+  width: 100%;
+  margin-bottom: 2em;
+  font-size: 14px;
+  padding: 0.5em 0;
+  border: none;
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 1.25em;
+  color: #757575;
+}
+.log-form input:focus {
+  outline: none;
+}
+
+@media screen and (max-width: 640px) {
+
+    body {
+        left: 6px;
+        right: 6px;
     }
+
+}
